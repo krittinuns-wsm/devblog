@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
+  title: 'TopTest', // Required
+  author: 'Krittinun Sirodom', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
@@ -8,7 +8,7 @@ module.exports = {
   postsPerPage: 5, // Required
   social: {
     website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
+    github: 'https://github.com/krittinuns',
     twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
   },

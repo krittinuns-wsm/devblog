@@ -1,0 +1,12 @@
+[Settings]
+  ID = "466a973b-da09-4199-b203-f3ff430583dc"
+
+[Build]
+  Publish = ""
+  Functions = ""
+
+[[redirects]]
+from = "/*/amp"
+to = "/toptest.com/:splat"
+status = 200
+force = false
