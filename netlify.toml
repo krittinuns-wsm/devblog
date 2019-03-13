@@ -7,6 +7,12 @@
 
 [[redirects]]
 from = "/*/amp"
-to = "/toptest.com/:splat"
+to = "/rewrite.com/:splat"
 status = 200
+force = false
+
+[[redirects]]
+from = "/*/amp"
+to = "/redirect.com/:splat"
+status = 301
 force = false
