@@ -16,3 +16,15 @@ from = "/*/amp-redirect"
 to = "/redirect.com/:splat"
 status = 301
 force = false
+
+[[redirects]]
+from = "/google"
+to = "https://www.google.com"
+status = 301
+force = false
+
+[[redirects]]
+from = "/google-redirect/*"
+to = "https://www.google.com/:splat"
+status = 301
+force = false
